@@ -1,0 +1,10 @@
+img, video, audio, iframe, table, form {
+  width: 100%; /* IE */
+  max-width: 100%; /* FF, Safari, Chrome */
+}
+
+/*////Layout Styles //////*/
+
+.row {
+  margin-bottom: 20px;
+}
